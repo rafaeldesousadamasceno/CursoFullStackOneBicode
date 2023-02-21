@@ -1,2 +1,2 @@
 # CursoFullStackOneBicode
- Curso de FullStack para programação WEB - Onebitcode.
+ Onebitcode - Programador Full Stack Javascript
